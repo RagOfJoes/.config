@@ -1,0 +1,9 @@
+git:
+  log:
+    showGraph: "always"
+    showWholeGraph: true
+gui:
+  nerdFontsVersion: "3"
+  showCommandLog: false
+os:
+  editPreset: "nvim-remote"
